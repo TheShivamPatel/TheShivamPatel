@@ -1,5 +1,5 @@
-#Hi there 👋
-
+# Hi there 👋
+ 
 <!--
 **TheShivamPatel/TheShivamPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,11 +20,17 @@ Here are some ideas to get you started:
 I am Shivam Patel. Mobile Developer at Google Developer Student Club at AITR. 
 
 I HATE PROGRAMMING
+
 I HATE PROGRAMMING
+
 I HATE PROGRAMMING
+
      {*_*}
+     
    IT WORKS...
+   
 I LOVER PROGRAMMING
+
      {￣▽￣}
      
      
