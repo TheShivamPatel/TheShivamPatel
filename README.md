@@ -19,20 +19,12 @@ Here are some ideas to get you started:
 ## About me
 I am Shivam Patel. Mobile Developer at Google Developer Student Club at AITR. 
 
-I HATE PROGRAMMING
+## Things I am passionate about
+- Android 🤖
+- Webdev 💻
 
-I HATE PROGRAMMING
-
-I HATE PROGRAMMING
-
-     {*_*}
-     
-   IT WORKS...
-   
-I LOVER PROGRAMMING
-
-     {￣▽￣}
-     
-     
+## Get in touch
+- [LinkedIn](https://www.linkedin.com/in/shivam-patel-798104248/)
+- [Instagram](https://www.instagram.com/the.shivam.patel/)
 
 
