@@ -21,7 +21,7 @@ I am Shivam Patel. Mobile Developer at Google Developer Student Club at AITR.
 
 ## Things I am passionate about
 - Android 🤖
-- Webdev 💻
+- Flutter 📱
 
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/shivam-patel-798104248/)
